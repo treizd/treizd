@@ -1,5 +1,6 @@
 # BIO
 My name is Egor. I am a python developer from Russia. I improve Python every day. Hope you like my projects!
+Mainly doing Telegram bots and user-bots.
 
 # Contacts
 Contact me if you have any questions
