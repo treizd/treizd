@@ -2,6 +2,8 @@
 My name is Egor. I am a python developer from Russia. I improve Python every day. Hope you like my projects!
 Mainly doing Telegram bots and user-bots.
 
+- I am a 2023-2025 [Yandex Lyceum](https://lyceum.yandex.ru) graduate. 
+
 # Contacts
 Contact me if you have any questions
 - Telegram - @coder_kiddo
