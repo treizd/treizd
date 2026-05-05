@@ -7,14 +7,6 @@ My name is Egor. I am a python developer from Russia and I embrace Python. Check
 Contact me if you have any questions
 - Telegram - @coder_kiddo
 - Discord - devmalware
-# Stats
-![Treizd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Treizd&show_icons=true&theme=tokyonight&title_color=7862d1&text_color=7862d1)
-
-# Projects languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Treizd&theme=dark)](https://github.com/Treizd)
-
-# Biggest projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Treizd&repo=aioeasysqlite&show_owner=true&theme=dark)](https://github.com/treizd/AioEasySqlite)
 
 # Support
 ![Static Badge](https://img.shields.io/badge/TON-0098EA?logo=TON&logoColor=white) - `UQB-7m2USzQ451d9orgD4iECLD0FL_BV-zzk3i--bdRl51ho`
@@ -23,6 +15,6 @@ Contact me if you have any questions
 ![Static Badge](https://img.shields.io/badge/TRC20-50AF95?logo=tether&logoColor=white) - `TUbvCEDE5wpVRsbLmuU8JfkWY4gNcBNbrx`
 
 # Coding
-![Static Badge](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white) ![Static Badge](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-663399?logo=CSS&logoColor=white) ![Static Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white) ![Static Badge](https://img.shields.io/badge/Sqlite-003B57?logo=Sqlite&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white) ![Static Badge](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-663399?logo=CSS&logoColor=white)
 # Designing
 ![Static Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Static Badge](https://img.shields.io/badge/Picsart-C209C1?logo=picsart&logoColor=white)
