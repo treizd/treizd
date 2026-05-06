@@ -24,7 +24,7 @@ Contact me if you have any questions
 [![trophy](https://github-profile-trophy.vercel.app/?username=treizd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Coding Stack
-![Static Badge](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white) ![Static Badge](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-663399?logo=CSS&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python3-3776AB?logo=Python&logoColor=white) ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS3-663399?logo=CSS&logoColor=white)
 # Designing Stack
 ![Static Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
