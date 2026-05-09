@@ -1,10 +1,8 @@
 # BIO
-My name is Egor. I am a python developer from Russia and I embrace Python. Check out my projects.
-
-- I am a 2023-2025 [Yandex Lyceum](https://lyceum.yandex.ru) graduate. 
+My name is Egor. I am a russian python developer. Check out my projects.
 
 # Contacts
-Contact me if you have any questions
+Feel free to contact me if you have any questions or collaboration ideas.
 - Telegram - @coder_kiddo
 - Discord - devmalware
 
