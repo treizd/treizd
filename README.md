@@ -1,8 +1,8 @@
 # BIO
-My name is Egor. I am a russian python developer. Check out my projects.
+My name is Egor. I am a russian python developer.
 
 # Contacts
-Feel free to contact me if you have any questions or collaboration ideas.
+Feel free to reach out if you have any questions or collaboration ideas.
 - Telegram - @coder_kiddo
 - Discord - devmalware
 
@@ -29,10 +29,10 @@ Feel free to contact me if you have any questions or collaboration ideas.
 
 # Support
 <details>
-<summary>Donation</summary>
+<summary>By me a crypto-coffee</summary>
 
-![Static Badge](https://img.shields.io/badge/TON-0098EA?logo=TON&logoColor=white) - `UQB-7m2USzQ451d9orgD4iECLD0FL_BV-zzk3i--bdRl51ho`
+![Static Badge](https://img.shields.io/badge/TON-0098EA?logo=TON&logoColor=white) - UQB-7m2USzQ451d9orgD4iECLD0FL_BV-zzk3i--bdRl51ho
 
-![Static Badge](https://img.shields.io/badge/TRC20-50AF95?logo=tether&logoColor=white) - `TUbvCEDE5wpVRsbLmuU8JfkWY4gNcBNbrx`
+![Static Badge](https://img.shields.io/badge/TRC20-50AF95?logo=tether&logoColor=white) - TUbvCEDE5wpVRsbLmuU8JfkWY4gNcBNbrx
 
 </details>
