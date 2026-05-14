@@ -1,29 +1,56 @@
-# BIO
-My name is Egor. I am a russian python developer.
+<h1 align="center">🫡 Hello, everybody! I am Egor</h1>
+<p align="center">💪 I am a russian python developer and I embrace python every day<br>⚡ Check out my projects</p>
 
-# Contacts
-Feel free to reach out if you have any questions or collaboration ideas.
-- Telegram - @coder_kiddo
-- Discord - devmalware
 
-# My info
+# Some statistics
 <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=treizd&theme=github_dark" />
 
 # Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=treizd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-# Coding Stack
-![Static Badge](https://img.shields.io/badge/Python3-3776AB?logo=Python&logoColor=white) ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS3-663399?logo=CSS&logoColor=white)
-# Designing Stack
-![Static Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+<table>
+  <tr>
+    <th>Tech stack</th>
+    <th>Tools</th>
+    <th>Designing stack</th>
+  </tr>
+  <tr>
+    <td>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+        <img src="https://cdn.simpleicons.org/python" height="24">
+        <img src="https://cdn.simpleicons.org/html5" height="24">
+        <img src="https://cdn.simpleicons.org/css" height="24">
+      </div>
+    </td>
+    <td>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+        <img src="https://cdn.simpleicons.org/sqlite" height="24">
+        <img src="https://cdn.simpleicons.org/sqlalchemy" height="24">
+        <img src="https://cdn.simpleicons.org/postgresql" height="24">
+        <img src="https://cdn.simpleicons.org/pytest" height="24">
+        <img src="https://cdn.simpleicons.org/fastapi" height="24">
+        <img src="https://cdn.simpleicons.org/flask" height="24">
+        <img src="https://cdn.simpleicons.org/aiohttp" height="24">
+      </div>
+    </td>
+    <td>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+        <img src="https://cdn.simpleicons.org/figma" height="24">
+        <img src="https://cdn.simpleicons.org/picsart" height="24">
+      </div>
+    </td>
+  </tr>
+</table>
 
 
-# Support
-<details>
-<summary>By me a crypto-coffee</summary>
-
-![Static Badge](https://img.shields.io/badge/TON-0098EA?logo=TON&logoColor=white) - UQB-7m2USzQ451d9orgD4iECLD0FL_BV-zzk3i--bdRl51ho
-
-![Static Badge](https://img.shields.io/badge/TRC20-50AF95?logo=tether&logoColor=white) - TUbvCEDE5wpVRsbLmuU8JfkWY4gNcBNbrx
-
-</details>
+# Contacts
+<table>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/telegram" height="24" />Telegram</td>
+    <td>@coder_kiddo</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/discord" height="24" />Discord</td>
+    <td>devmalware</td>
+  </tr>
+</table>
