@@ -7,16 +7,7 @@ Feel free to reach out if you have any questions or collaboration ideas.
 - Discord - devmalware
 
 # My info
-<table>
-  <tr>
-    <td>
-      <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=treizd&theme=github_dark" />
-    </td>
-    <td>
-      <img width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=treizd&theme=github_dark" />
-    </td>
-  </tr>
-</table>
+<img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=treizd&theme=github_dark" />
 
 # Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=treizd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
