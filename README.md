@@ -8,39 +8,9 @@
 # Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=treizd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<table>
-  <tr>
-    <th>Tech stack</th>
-    <th>Tools</th>
-    <th>Designing stack</th>
-  </tr>
-  <tr>
-    <td>
-      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-        <img src="https://cdn.simpleicons.org/python" height="24">
-        <img src="https://cdn.simpleicons.org/html5" height="24">
-        <img src="https://cdn.simpleicons.org/css" height="24">
-      </div>
-    </td>
-    <td>
-      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-        <img src="https://cdn.simpleicons.org/sqlite" height="24">
-        <img src="https://cdn.simpleicons.org/sqlalchemy" height="24">
-        <img src="https://cdn.simpleicons.org/postgresql" height="24">
-        <img src="https://cdn.simpleicons.org/pytest" height="24">
-        <img src="https://cdn.simpleicons.org/fastapi" height="24">
-        <img src="https://cdn.simpleicons.org/flask" height="24">
-        <img src="https://cdn.simpleicons.org/aiohttp" height="24">
-      </div>
-    </td>
-    <td>
-      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-        <img src="https://cdn.simpleicons.org/figma" height="24">
-        <img src="https://cdn.simpleicons.org/picsart" height="24">
-      </div>
-    </td>
-  </tr>
-</table>
+| Tech stack | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tools &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Designing stack |
+|------------|----------|-----------------|
+| <img src="https://cdn.simpleicons.org/python" height="24"> <img src="https://cdn.simpleicons.org/html5" height="24"> <img src="https://cdn.simpleicons.org/css" height="24"> | <img src="https://cdn.simpleicons.org/sqlite" height="24"> <img src="https://cdn.simpleicons.org/sqlalchemy" height="24"> <img src="https://cdn.simpleicons.org/postgresql" height="24"> <img src="https://cdn.simpleicons.org/pytest" height="24"> <img src="https://cdn.simpleicons.org/fastapi" height="24"> <img src="https://cdn.simpleicons.org/flask" height="24"> <img src="https://cdn.simpleicons.org/aiohttp" height="24"> | <img src="https://cdn.simpleicons.org/figma" height="24"> <img src="https://cdn.simpleicons.org/picsart" height="24"> |
 
 
 # Contacts
