@@ -3,7 +3,7 @@
 
 
 # Some statistics
-<img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=treizd&theme=github_dark" />
+<img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=treizd&theme=github_dark" />
 
 # Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=treizd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
